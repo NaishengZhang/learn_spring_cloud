@@ -21,6 +21,7 @@
         <module>restTemplate</module>
         <module>consumer</module>
         <module>zuul</module>
+        <module>ribbon</module>
     </modules>
 
 
